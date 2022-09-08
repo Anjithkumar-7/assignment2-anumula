@@ -32,3 +32,16 @@ The other tourist spots that are worth watching around Salarjung Museum are:
 * Nizam Museum.
 
 [Click here to know about me](AboutMe.md)
+
+
+---
+## Recommended Cities to Visit in India
+There are many places of historical importance in India some of them that you should definitely not miss  when you visit in India are mentioned below:
+
+| City        | Important Location| Time to Spend           |
+| :---        |    :----:         |          ---:   |
+| Madhurai    | Meenakshi Temple  | 2hrs      |
+| Tirumala    | Venkateshwara Temple | 9 hrs     |
+| Mysore      | Mysore palace     | 4 hrs         |
+| Hyderabad   | Charminar         | 2 hrs         |
+| Aurangabad  |   Ajantha and Ellora Caves  | 4 hours         |
