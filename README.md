@@ -53,6 +53,43 @@ There are many places of historical importance in India some of them that you sh
 
 > "Radiate boundless love towards the entire world." - *Lord Buddha*
 
+---
+## How does the CSS Grid Layout actually works??
+
+> The complete guide how the CSS grid layout works is given in the below link:
+
+Guide to the CSS grid layout <https://stackoverflow.com/questions/47587892/how-does-css-grid-layout-works>
+
+```
+
+.item-a {
+  grid-area: header;
+}
+.item-b {
+  grid-area: main;
+}
+.item-c { 
+  grid-area: sidebar;
+}
+.item-d {
+  grid-area: footer;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: auto;
+  grid-template-areas: 
+    "header header header header"
+    "main main . sidebar"
+    "footer footer footer footer";
+}
+
+```
+
+refer to the this link for the detailed explaination. <https://css-tricks.com/snippets/> 
+
+
 
 
 
