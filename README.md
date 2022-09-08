@@ -45,3 +45,14 @@ There are many places of historical importance in India some of them that you sh
 | Mysore      | Mysore palace     | 4 hrs         |
 | Hyderabad   | Charminar         | 2 hrs         |
 | Aurangabad  |   Ajantha and Ellora Caves  | 4 hours         |
+
+---
+# Famous Quotes from the famous personalities
+
+> “A smooth sea never made a skilled sailor.” - *Franklin D. Roosevelt*
+
+> "Radiate boundless love towards the entire world." - *Lord Buddha*
+
+
+
+
